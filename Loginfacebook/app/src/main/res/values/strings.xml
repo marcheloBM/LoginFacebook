@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Loginfacebook</string>
+    <string name="facebook_app_id">354891004863050</string>
+    <!-- Replace with your actual Client Token from Facebook Dashboard -> Settings -> Advanced -->
+    <string name="facebook_client_token">YOUR_CLIENT_TOKEN_HERE</string>
+    <string name="fb_login_protocol_scheme">fb354891004863050</string>
+    <string name="title_activity_loginfacebook_app">LoginfacebookApp</string>
+</resources>
